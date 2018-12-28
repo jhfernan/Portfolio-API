@@ -1,9 +1,15 @@
 [
 	{
 		"title": "Ruggiero Law Firm",
-		"images": [],
+		"images": [
+			"http://localhost:8000/images/1/logo-footer.png",
+			"http://localhost:8000/images/1/logo.png",
+			"http://localhost:8000/images/1/website_home.png",
+			"http://localhost:8000/images/1/mobile.png"
+		],
 		"body": "Hello World",
-		"github": "",
-		"website": ""
+		"github": "https://github.com/jhfernan/Ruggiero_Law/blob/master/server/api/v1/messages.js",
+		"githubPrivate": true,
+		"website": "https://www.ruggierolawfirm.com/tiffany"
 	}
 ]
