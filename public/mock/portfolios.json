@@ -2,8 +2,8 @@
 	{
 		"id": 1,
 		"title": "Ruggiero Law Firm",
+		"type": "Shipped Project",
 		"images": [
-			"http://localhost:8000/images/1/logo-footer.png",
 			"http://localhost:8000/images/1/logo.png",
 			"http://localhost:8000/images/1/website_home.png",
 			"http://localhost:8000/images/1/mobile.png"
