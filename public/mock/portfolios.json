@@ -9,8 +9,31 @@
 			"http://localhost:8000/images/1/mobile.png"
 		],
 		"body": "Hello World",
-		"github": "https://github.com/jhfernan/Ruggiero_Law/blob/master/server/api/v1/messages.js",
+		"github": [
+			{ "title": "Ruggiero Law Firm Website", "link": "https://github.com/jhfernan/Ruggiero_Law" }
+		],
 		"githubPrivate": true,
 		"website": "https://www.ruggierolawfirm.com/tiffany"
+	},
+	{
+		"id": 2,
+		"title": "Marinelli Auto Service",
+		"type": "Shipped Project",
+		"images": [
+			"http://localhost:8000/images/2/logo.jpg",
+			"http://localhost:8000/images/2/login_page.png",
+			"http://localhost:8000/images/2/customers_page.png",
+			"http://localhost:8000/images/2/customer_detail_page.png",
+			"http://localhost:8000/images/2/task_manager.png",
+			"http://localhost:8000/images/2/time_keeper.png",
+			"http://localhost:8000/images/2/knowledge_base.png"
+		],
+		"body": "Hello World",
+		"github": [
+			{ "title": "The Marinelli Front End App", "link": "https://github.com/jhfernan/My_Marinelli_App" },
+			{ "title": "The Marinelli API", "link": "https://github.com/jhfernan/My_Marinelli_API" }
+		],
+		"githubPrivate": true,
+		"website": "https://www.mymarinelliauto.com/login"
 	}
 ]
