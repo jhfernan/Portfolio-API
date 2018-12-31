@@ -10,7 +10,7 @@
 		],
 		"body": "This project is probably one of my favorite pieces. Not only is it the first project that I have successfully shipped and created, but it also has evolved with me.\n\nAt first, it started as a Ruby on Rails project. Then as my skills grew a little more, I turned it into an Express/Node.js project. Then I discovered the joys of Angular and Mongodb, so I turned it into a very basic SPA utilizing the MEAN stack. And now, I am in the process of turning it into an app built on Vue.js/Nuxt.js.\n\nThroughout this whole process, the client has been a tremendous joy to work for. Patient in areas where the new technology takes a little time to implement and always up for joining me in the improvement process.\n\nThe goal of this project was simple: a new law firm needed a website to be able to showcase who they are and how to connect with them. I created a couple prototypes of what direction to take the website in and she really liked my idea for a website that had space and breathing room. I took that design prototype and simply converted into the equivalent HTML, CSS, and JavaScript to create the website she currently sports today.",
 		"github": [
-			{ "title": "Ruggiero Law Firm Website", "link": "https://github.com/jhfernan/Ruggiero_Law" }
+			{ "title": "Ruggiero Law Firm Website", "url": "https://github.com/jhfernan/Ruggiero_Law" }
 		],
 		"githubPrivate": true,
 		"website": "https://www.ruggierolawfirm.com/tiffany"
@@ -30,8 +30,8 @@
 		],
 		"body": "This project really stands out to me because it was a project birthed out of the desire to improve processes. While working as an office manager for an Auto Repair Shop, I found myself losing out on a lot of time because they were still doing things in a very inefficient manner. A simple example was the fact that they were still signing people in by hand.\n\nSo what was my solution? Simple: build the business I was working for a web application to start streamlining a lot of their processes to make us more efficient.",
 		"github": [
-			{ "title": "The Marinelli Front End App", "link": "https://github.com/jhfernan/My_Marinelli_App" },
-			{ "title": "The Marinelli API", "link": "https://github.com/jhfernan/My_Marinelli_API" }
+			{ "title": "The Marinelli Front End App", "url": "https://github.com/jhfernan/My_Marinelli_App" },
+			{ "title": "The Marinelli API", "url": "https://github.com/jhfernan/My_Marinelli_API" }
 		],
 		"githubPrivate": true,
 		"website": "https://www.mymarinelliauto.com/login"
