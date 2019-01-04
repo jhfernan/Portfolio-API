@@ -35,5 +35,23 @@
 		],
 		"githubPrivate": true,
 		"website": "https://www.mymarinelliauto.com/login"
+	},
+	{
+		"id": 3,
+		"title": "Team Boxfort",
+		"type": "Shipped Project",
+		"images": [
+			"/images/3/logo.png",
+			"/images/3/web.png",
+			"/images/3/web2.png",
+			"/images/3/web3.png"
+		],
+		"body": "While waiting for an opportunity to join a team, I was not content waiting on the side line watching my skills go stagnant. I started talking to some people close to me and we formed a small team in order to create websites and web applications. The result of this team was a little umbrella for us to work under.\n\nThe web app/website for team boxfort is completely of my design and creation.\n\nWe are currently looking at teaching some small courses at local high schools so we are expanding this website to be able to provide some tools to our future students, such as: a forum to post questions or collaborate with, reward/point system to encourage engagement, and a code challenge system.",
+		"github": [
+			{ "title": "The Team Boxfort Front End", "url": "https://github.com/jhfernan/Boxfort-APP2.0" },
+			{ "title": "The Team Boxfort API", "url": "https://github.com/jhfernan/Boxfort-API2.0" }
+		],
+		"githubPrivate": true,
+		"website": "https://www.teamboxfort.com/"
 	}
 ]
