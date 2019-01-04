@@ -7,10 +7,10 @@ let response = info => {
 							<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
 							<title>Contact Submission</title>
 						</head>
-						<body class="mt-5" style="background-color: #9C27B0;">
+						<body class="mt-5" style="background-color: #607D8B;">
 							<div class="container pb-3 text-center">
 								<div class="jumbotron bg-white">
-									<h1 class="mb-5" style="color: #7B1FA2;">New Submission from Portfolio Contact Page</h1>
+									<h1 class="mb-5" style="color: #455A64;">New Submission from Portfolio Contact Page</h1>
 									<table class="table table-hover">
 										<tbody class="text-left">
 											<tr>
@@ -18,12 +18,12 @@ let response = info => {
 												<td>${ info.name }</td>
 											</tr>
 											<tr>
-												<th>Subject</th>
-												<td>${ info.subject }</td>
+												<th>Contact Info</th>
+												<td>${ info.email }</td>
 											</tr>
 											<tr>
-												<th style="vertical-align: middle;">Contact Info</th>
-												<td>${ info.email }</td>
+												<th>Subject</th>
+												<td>${ info.subject }</td>
 											</tr>
 											<tr>
 												<th style="vertical-align: middle;">Message</th>
