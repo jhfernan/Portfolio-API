@@ -14,7 +14,7 @@ let config = {
 
 if (process.env.NODE_ENV == 'production') {
 	config.db = process.env.MONGODB_URI
-	config.origins = 'https://boxfort.herokuapp.com/ https://www.teamboxfort.com https://teamboxfort.com'
+	config.origins = 'https://jhfernan.herokuapp.com/ https://www.jhfernan.com'
 	config.secret = process.env.SECRET
 } else {
 	config.mailer = require('./hidden.config.js')
