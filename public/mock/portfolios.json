@@ -4,9 +4,9 @@
 		"title": "Ruggiero Law Firm",
 		"type": "Shipped Project",
 		"images": [
-			"http://localhost:8000/images/1/logo.png",
-			"http://localhost:8000/images/1/website_home.png",
-			"http://localhost:8000/images/1/mobile.png"
+			"/images/1/logo.png",
+			"/images/1/website_home.png",
+			"/images/1/mobile.png"
 		],
 		"body": "This project is probably one of my favorite pieces. Not only is it the first project that I have successfully shipped and created, but it also has evolved with me.\n\nAt first, it started as a __Ruby on Rails__ project. Then as my skills grew a little more, I turned it into an __Express__/__Node.js__ project. Then I discovered the joys of __Angular__ and __Mongodb__, so I turned it into a very basic SPA utilizing the __MEAN__ stack. And now, I am in the process of turning it into an app built on __Vue.js__/__Nuxt.js__.\n\nThroughout this whole process, the client has been a tremendous joy to work for. Patient in areas where the new technology takes a little time to implement and always up for joining me in the improvement process.\n\nThe goal of this project was simple: a new law firm needed a website to be able to showcase who they are and how to connect with them. I created a couple prototypes of what direction to take the website in and she really liked my idea for a website that had space and breathing room. I took that design prototype and simply converted into the equivalent __HTML__, __CSS__, and __JavaScript__ to create the website she currently sports today.",
 		"github": [
@@ -20,13 +20,13 @@
 		"title": "Marinelli Auto Service",
 		"type": "Shipped Project",
 		"images": [
-			"http://localhost:8000/images/2/logo.jpg",
-			"http://localhost:8000/images/2/login_page.png",
-			"http://localhost:8000/images/2/customers_page.png",
-			"http://localhost:8000/images/2/customer_detail_page.png",
-			"http://localhost:8000/images/2/task_manager.png",
-			"http://localhost:8000/images/2/time_keeper.png",
-			"http://localhost:8000/images/2/knowledge_base.png"
+			"/images/2/logo.jpg",
+			"/images/2/login_page.png",
+			"/images/2/customers_page.png",
+			"/images/2/customer_detail_page.png",
+			"/images/2/task_manager.png",
+			"/images/2/time_keeper.png",
+			"/images/2/knowledge_base.png"
 		],
 		"body": "This project really stands out to me because it was a project birthed out of the desire to improve processes. While working as an office manager for an Auto Repair Shop, I found myself losing out on a lot of time because they were still doing things in a very inefficient manner. A simple example was the fact that they were still signing people in by hand.\n\nSo what was my solution? Simple: build a web application to start streamlining a lot of their processes to make us more efficient.\n\nFirst the sign in process needed to be sped up. So we built a customer database that tracks their information and vehicles. Then we created a repair order system to keep track of every visit. Last, but not least, we created the application to be able to create a new repair order on sign in. The result, rather than signing in a customer by hand each visit (and repetitively copying their information to each repair order), with one click, their information and vehicle specifications would pre-populate the repair order. Our sign in times dropped from a total of about 4 - 5 hours a week, to 1 - 1.5 hours per week.\n\nWe then created a task manager that works in real time. The shop then needed a time keeper to track their time on a car (they were doing a lot of manual tracking and mental math before this). And last we even added a knowledge base to help our team keep track of important info and procedures.",
 		"github": [
